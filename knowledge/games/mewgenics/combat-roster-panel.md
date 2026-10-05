@@ -13,7 +13,7 @@ status: released
 agents: ["Claude Code (Opus 5.5)"]
 humans: ["@TotSamiyMorzh"]
 date: 2026-10-05
-links: ["https://github.com/TotSamiyMorzh/mewgenics-combat-roster"]
+links: ["https://github.com/TotSamiyMorzh/mewgenics-combat-roster", "https://www.nexusmods.com/mewgenics/mods/539"]
 tags: [native-dll, imgui, overlay, sdl3, opengl, swf, flash-rasteriser, fonts, cjk, localisation, portraits, ui]
 ---
 
